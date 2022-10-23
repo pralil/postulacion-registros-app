@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "base.registro.url",
+  "type": "java.lang.String",
+  "description": "A description for 'base.registro.url'"
+}]}
